@@ -1,5 +1,6 @@
 # 💫 About Me:
-i have strong  hands on java  spring boot, hibernate, spring AI, <br>  i also know  html, css, js, react,<br> i also know  devops tools    aws, docker, linux,  <br> i also work on  flutter  and firebase and  android app development<br>i also know system design , <br> i work on mysql and  vertor datavase
+ <br> I am a full-stack developer with strong hands-on experience in Java , Spring Boot.<br> I have worked extensively with Hibernate, Spring security and Spring AI to build scalable backend applications.<br> I am comfortable building REST APIs and backend business logic.<br> I also work with HTML, CSS, JavaScript, and React for frontend development.<br> I have experience in Flutter, Firebase, and Android app development.<br> I am familiar with AWS, Docker, and Linux for deployment and DevOps tasks.<br> I have a good understanding of system design and application architecture.<br> I have worked with MySQL and vector databases.<br>I enjoy learning new technologies and solving real-world problems.
+
 
 
 ## 🌐 Socials:
